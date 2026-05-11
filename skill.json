@@ -16,7 +16,7 @@
     "license": "BSD-3-Clause",
     "author": "Neongecko",
     "tags": [],
-    "version": "3.1.1a3",
+    "version": "3.1.1a4",
     "url": "https://github.com/NeonGeckoCom/skill-weather",
     "skill_id": "skill-weather.neongeckocom=neon_skill_weather:WeatherSkill",
     "skillname": "skill-weather",
